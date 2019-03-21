@@ -19,10 +19,11 @@ export default class Header extends Component {
             <h1 className="responsive-headline">I'm {resumeData.firstName}</h1>
             <h3>I'm a <span>programmer</span> and <span>designer</span> pursuing a career in software development and game design. I have experience with programming, graphic design, and 3D modeling, and I'm especially passionate about games and everything related to them! </h3>
             <ul className="social">
-              <li><a href={resumeData.linkedin}><i className="fa fa-linkedin" /></a></li>
-              <li><a href={resumeData.github}><i className="fa fa-github" /></a></li>
-              <li><a href={resumeData.mailto}><i className="fa fa-envelope" /></a></li>
-              <li><a href={resumeData.twitter}><i className="fa fa-twitter" /></a></li>
+              <li><a href={resumeData.linkedin}><i className="fab fa-linkedin-in"></i></a></li>
+              <li><a href={resumeData.github}><i className="fab fa-github" /></a></li>
+              <li><a href={resumeData.itchio}><i className="fab fa-itch-io"></i></a></li>
+              <li><a href={resumeData.mailto}><i class="fas fa-envelope"></i></a></li>
+              <li><a href={resumeData.twitter}><i className="fab fa-twitter" /></a></li>
             </ul>
           </div>
         </div>
