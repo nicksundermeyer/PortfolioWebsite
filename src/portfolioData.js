@@ -120,7 +120,7 @@ let resumeData = [
     },
     {
         "header": "Water Shader",
-        "categories": "Programming",
+        "categories": "Game Development",
         "image": "water-full.png",
         "modalID": "modal_watershader",
         "body":
