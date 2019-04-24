@@ -41,7 +41,7 @@ class Portfolio extends Component {
                   <MenuItem value=""><em>Filter</em></MenuItem>
                   <MenuItem value={"Game Development"}>Game Development</MenuItem>
                   <MenuItem value={"Graphic Design"}>Graphic Design</MenuItem>
-                  <MenuItem value={"3D Modeling"}>3D Modeling</MenuItem>
+                  <MenuItem value={"3D Work"}>3D Work</MenuItem>
                   <MenuItem value={"Web Development"}>Web Development</MenuItem>
                 </Select>
               </FormControl>

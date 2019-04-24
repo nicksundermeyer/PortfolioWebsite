@@ -67,13 +67,13 @@ let resumeData = [
             </div>
     },
     {
-        "header": "3D Modeling Projects",
-        "categories": "3D Modeling",
+        "header": "3D Work Projects",
+        "categories": "3D Work",
         "image": "modeling-full.png",
         "modalID": "modal_modeling",
         "body":
             <div>
-                <p>Both of these project were created for my 3D Modeling class at the University of Denver, using Autodesk Maya and the Arnold renderer.</p>
+                <p>Both of these project were created for my 3D Work class at the University of Denver, using Autodesk Maya and the Arnold renderer.</p>
                 <div id="carouselOne" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -142,6 +142,18 @@ let resumeData = [
             <div>
                 <iframe src='https://www.youtube.com/embed/pnjgvrapLC8' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>
                 <p>This was created for a computer graphics class. It is a dynamic water shader written in GLSL and running in OpenGL. It has controls to change direction, size, and other attributes of the two waves, which move across the surface of the poly. The water surface has reflection mapping including Fresnel factor, animated bump mapping, and refraction mapping.</p>
+            </div>
+    },
+    {
+        "header": "Lift Animation",
+        "categories": "3D Work",
+        "image": "liftAnimation.png",
+        "modalID": "modal_liftanimation",
+        "body":
+            <div>
+                <iframe src='https://www.youtube.com/embed/NMA4pPfhfMs' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>
+                <p>This was an animation created for the 3D animation class at the University of Denver. We were given a pre-rigged character to work with, and had to create an animation of a character lifting or pulling a heavy object.</p>
+                <p>I chose to have him trapped under debris and struggling to get out. This was made in two weeks for a class project, but I'm pretty proud of how it turned out. The project was focused on action/reaction and having the holds on the way up to show the weight of the object.</p>
             </div>
     },
     {
@@ -229,7 +241,7 @@ let resumeData = [
     },
     {
         "header": "High School 3D Project",
-        "categories": "3D Modeling",
+        "categories": "3D Work",
         "image": "hsmodeling-full.jpg",
         "modalID": "modal_hsmodelling",
         "body":
