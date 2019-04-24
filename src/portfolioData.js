@@ -54,6 +54,19 @@ let resumeData = [
             </div>
     },
     {
+        "header": "Campfire",
+        "categories": "Game Development",
+        "image": "campfire.png",
+        "modalID": "modal_campfire",
+        "body":
+            <div>
+                <a href="https://sundy.itch.io/campfire">View the game on itch.io</a>
+                <p>This project was created for Global Game Jam 2019. The prompt was "what does home mean to you",  and our design concept for the game was based around having a safe place to come back to that felt like home. The game is a slow-paced, atmospheric survival game where the player must collect wood for their fire, which is slowly burning out. The player's torch also requires sticks from the fire, so they must continually return home in order to delve farther and farther into the darkness.</p>
+                <p>This is a prototype made in two days, but we hope to expand the game's concept beyond this first version to include more gameplay elements based around the lighting mechanics we have in the game.</p>
+                <p>I worked on both design and programming for the game</p>
+            </div>
+    },
+    {
         "header": "Gravibird",
         "categories": "Game Development",
         "image": "gravibird-full.png",
@@ -67,13 +80,13 @@ let resumeData = [
             </div>
     },
     {
-        "header": "3D Work Projects",
+        "header": "3D Modeling Projects",
         "categories": "3D Work",
         "image": "modeling-full.png",
         "modalID": "modal_modeling",
         "body":
             <div>
-                <p>Both of these project were created for my 3D Work class at the University of Denver, using Autodesk Maya and the Arnold renderer.</p>
+                <p>Both of these project were created for my 3D Modeling class at the University of Denver, using Autodesk Maya and the Arnold renderer.</p>
                 <div id="carouselOne" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
