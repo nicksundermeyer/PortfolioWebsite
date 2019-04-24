@@ -2,6 +2,21 @@ import React, { Component } from 'react';
 
 let resumeData = [
     {
+        "header": "Blank Canvas",
+        "categories": "Game Development",
+        "image": "blankCanvas.png",
+        "modalID": "modal_blankcanvas",
+        "body":
+            <div>
+                <p><a href="https://sundy.itch.io/blankcanvas">Download alpha builds on itch.io</a></p>
+                <p>This is my senior game capstone project for my Game Development major. It is currently in active development and will be continually changing, but we have most of our core mechanics set and will be bringing the game to a completed state by this summer. This project is being created by me along with a team of two other programmers.</p>
+                <p>Take up your paintbrush in this stealth platformer as you traverse a bleak world, leaving behind your own splash of color.</p>
+                <p>Play as a starving artist whose creativity has been suppressed by a tyrannical regime. Gather your courage and venture out at night, sneaking across the rooftops of your city to express yourself and paint a mural on a government building.</p>
+                <p>Paint the world freely using your paintbrush, use special paints to solve puzzles and give yourself superhuman abilities, and sneak by the goons patrolling the streets around you.</p>
+                <p>This game is currently in alpha development, and art, audio, and content are not final. Best played with a controller.</p>
+            </div>
+    },
+    {
         "header": "UE4 Project",
         "categories": "Game Development",
         "image": "ue4_full.jpg",
