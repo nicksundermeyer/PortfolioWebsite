@@ -233,16 +233,6 @@ let resumeData = [
             </div>
     },
     {
-        "header": "Cookbook Prototype",
-        "categories": "Web Development",
-        "image": "cookbook-full.png",
-        "modalID": "modal_cookbook",
-        "body":
-            <div>
-                <p>This was an album cover created for my cousin. With this project, it was all about getting his vision for the album and its storyline across. His concept was of an irradiated planet, with a solitary figure being chased by one of the planet's inhabitants, mutated by a viral strain accidentally released by the cloaked figure. The biggest challenge of this project was definitely balancing his vision for the cover with aesthetic decisions like keeping the layout even and not too cluttered. I'm proud of the end result, and I think that we collaborated well to make a cover that was both true to his vision and aesthetically pleasing.</p>
-            </div>
-    },
-    {
         "header": "Water=Life",
         "categories": "Graphic Design",
         "image": "life-full.png",
