@@ -17,7 +17,7 @@ export default class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">I'm {resumeData.firstName}</h1>
-            <h3>I'm a <span>programmer</span> and <span>designer</span> pursuing a career in software development and game design. I have experience with programming, graphic design, and 3D modeling, and I'm especially passionate about games and everything related to them! </h3>
+            <h3>I'm a versatile software developer with a design-oriented mind who loves working on creative interactive experiences that challenge me in multiple areas.</h3>
             <ul className="social">
               <li><a href={resumeData.linkedin}><i className="fab fa-linkedin-in"></i></a></li>
               <li><a href={resumeData.github}><i className="fab fa-github" /></a></li>
