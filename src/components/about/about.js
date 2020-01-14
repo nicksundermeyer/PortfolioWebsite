@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import resumeData from "../../resumeData";
+import "./about.css";
+
 export default class About extends Component {
   render() {
     return (
@@ -8,7 +10,7 @@ export default class About extends Component {
           <div className="three columns">
             <img
               className="profile-pic"
-              src="images/profilepic.jpg"
+              src={require("./images/profilepic.jpg")}
               alt="profilepic"
             />
           </div>
